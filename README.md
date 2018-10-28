@@ -1,9 +1,7 @@
 //311CD Constantin Rares
 //Tema2 SD
 
-	Voi incerca sa explic pe scurt cum am gandit sa implementez fiecare
-functie, deoarece fiecare dintre acestea sunt explicate, pe bucati, sub forma 
-de commenturi, in fisierul sursa.
+Voi incerca sa explic pe scurt cum am gandit sa implementez fiecare functie, deoarece fiecare dintre acestea sunt explicate, pe bucati, sub forma de commenturi, in fisierul sursa.
 
 Task 1:
 
